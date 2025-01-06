@@ -1,0 +1,22 @@
+[
+  {
+    "eng": "A/B testing",
+    "aze": "A/B testi",
+    "def": "İki komponentin və ya sistemin statistik olaraq müqayisə edildiyi və müəyyən edilmiş meyarlara əsasən hansı daha yaxşı olduğunu müəyyən etmək üçün test yanaşması."
+  },
+  {
+    "eng": "Abnormal end",
+    "aze": "qeyri-adi son",
+    "def": "Komponentin və ya sistemin icrasının başa çatmadan istənilmədən dayandırılması."
+  },
+  {
+    "eng": "Abstraction",
+    "aze": "Abstraksiya",
+    "def": "Mürəkkəb sistemlərin sadələşdirilməsi və əsas xüsusiyyətlərə fokuslanma prosesi."
+  },
+  {
+    "eng": "Abuse case",
+    "aze": "istismar halları",
+    "def": "Zərərli niyyətli bəzi aktorların sistemə və ya digər aktorlara ziyan vurduğu istifadə halları."
+  }
+]
