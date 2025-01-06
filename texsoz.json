@@ -4,6 +4,11 @@
       "eng": "Hello World",
       "az": "Salam dünya",
       "desc": ""
+    }, 
+    {
+      "eng": "Software engineering",
+      "az": "Proqram təminatı mühəndisliyi",
+      "desc": ""
     }
   ]
 }
