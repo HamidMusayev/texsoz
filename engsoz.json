@@ -10,6 +10,11 @@
         "aze_def": "Məlumatların səmərəli saxlanması, təşkili və idarə olunması üçün istifadə olunan xüsusi formatdır."
     },
     {
+        "eng": "Database",
+        "aze": "Verilənlər bazası",
+        "aze_def": "Məlumatların saxlanılması, idarə olunması və sorğular vasitəsilə əldə edilməsi üçün istifadə olunan sistemdir."
+    },
+    {
         "eng": "Abnormal end",
         "eng_def": "The unintended termination of the execution of a component or system prior to completion.",
         "aze": "qeyri-adi son",
@@ -1442,12 +1447,6 @@
         "eng_def": null,
         "aze": "Məlumat Anbarı",
         "aze_def": "Böyük həcmdə məlumatın saxlandığı və analiz edildiyi mərkəzi verilənlər bazası."
-    },
-    {
-        "eng": "Database",
-        "eng_def": null,
-        "aze": "Verilənlər Bazası",
-        "aze_def": "Məlumatların saxlandığı və idarə olunduğu təşkil olunmuş sistem."
     },
     {
         "eng": "Database Management System (DBMS)",
