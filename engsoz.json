@@ -15,6 +15,11 @@
         "aze_def": "Məlumatların saxlanılması, idarə olunması və sorğular vasitəsilə əldə edilməsi üçün istifadə olunan sistemdir."
     },
     {
+        "eng": "Sorting",
+        "aze": "Sıralama",
+        "aze_def": "Verilənlərin müəyyən qaydaya (artan, azalan və s.) uyğun düzülməsi əməliyyatıdır."
+    },
+    {
         "eng": "Abnormal end",
         "eng_def": "The unintended termination of the execution of a component or system prior to completion.",
         "aze": "qeyri-adi son",
