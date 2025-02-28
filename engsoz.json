@@ -20,6 +20,11 @@
         "aze_def": "Verilənlərin müəyyən qaydaya (artan, azalan və s.) uyğun düzülməsi əməliyyatıdır."
     },
     {
+        "eng": "Cache",
+        "aze": "Keş",
+        "aze_def": "Məlumatları sürətli əldə etmək məqsədilə müvəqqəti saxlanılan yaddaş sahəsi."
+    },
+    {
         "eng": "Abnormal end",
         "eng_def": "The unintended termination of the execution of a component or system prior to completion.",
         "aze": "qeyri-adi son",
@@ -762,12 +767,6 @@
         "eng_def": null,
         "aze": "Bayt Kodu",
         "aze_def": "Yüksək səviyyəli proqramların aşağı səviyyəli maşın koduna çevrilən orta səviyyəli təmsilatı."
-    },
-    {
-        "eng": "Cache",
-        "eng_def": null,
-        "aze": "Keş",
-        "aze_def": "Məlumatları sürətli əldə etmək məqsədilə müvəqqəti saxlayan yaddaş sahəsi."
     },
     {
         "eng": "Call Stack",
