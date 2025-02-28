@@ -1,5 +1,15 @@
 [
     {
+        "eng": "Algorithm",
+        "aze": "Alqoritm",
+        "aze_def": "Müəyyən bir problemi həll etmək üçün addım-addım izah edilən qaydalar və əmrlər toplusudur."
+    },
+    {
+        "eng": "Data Structures",
+        "aze": "Məlumat strukturları",
+        "aze_def": "Məlumatların səmərəli saxlanması, təşkili və idarə olunması üçün istifadə olunan xüsusi formatdır."
+    },
+    {
         "eng": "Abnormal end",
         "eng_def": "The unintended termination of the execution of a component or system prior to completion.",
         "aze": "qeyri-adi son",
