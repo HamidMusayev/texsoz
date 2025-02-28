@@ -21,8 +21,18 @@
     },
     {
         "eng": "Cache",
-        "aze": "Keş",
+        "aze": "Siyirmə",
         "aze_def": "Məlumatları sürətli əldə etmək məqsədilə müvəqqəti saxlanılan yaddaş sahəsi."
+    },    
+    {
+        "eng": "Caching strategy",
+        "aze": "Siyirmələmə üsulu",
+        "aze_def": "Məlumatları sürətli əldə etmək məqsədilə müvəqqəti saxlanılan yaddaş sahəsi."
+    },
+    {
+        "eng": "Application",
+        "aze": "Tətbiq",
+        "aze_def": "İstifadəçilərə müəyyən bir məqsəd üçün xidmət edən proqram təminatı."
     },
     {
         "eng": "Abnormal end",
@@ -245,12 +255,6 @@
         "eng_def": "A test approach performed by submitting requests to a test object using its application programming interface.",
         "aze": "API testləri",
         "aze_def": "Test obyektinə tətbiq proqramlaşdırma interfeysindən istifadə etməklə sorğular göndərməklə həyata keçirilən test yanaşması."
-    },
-    {
-        "eng": "Application",
-        "eng_def": null,
-        "aze": "Tətbiq",
-        "aze_def": "İstifadəçilərə müəyyən bir məqsəd üçün xidmət edən proqram."
     },
     {
         "eng": "Application Lifecycle Management (ALM)",
