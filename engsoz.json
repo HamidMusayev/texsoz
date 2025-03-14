@@ -6986,16 +6986,19 @@
 
      {
         "eng": "Digitization",
+         "eng_def": null,
         "aze": "Rəqəmsallaşdırma",
         "aze_def": "Fiziki sənədlərin, qeydlərin, bazaların birbaşa rəqəmsal mühitə köçürülməsi"
     },
     {
         "eng": "Digitalization",
+        "eng_def": null,
         "aze": "Rəqəmsallaşma",
         "aze_def": "Rəqəmsal texnologiyaların tətbiqi, məsələn, elektron sənəd dövriyyəsi. İş prosesinin rəqəmsal texnologiyalarla optimallaşdırılması"
     },
     {
         "eng": "Digital Transformation",
+        "eng_def": null,
         "aze": "Rəqəmsal Transformasiya",
         "aze_def": "Bir təşkilatın, biznes modelinin və mədəniyyətinin kökündən dəyişdirilərək rəqəmsal texnologiyalar əsasında yenidən qurulması prosesi. Marketin e-ticarətə keçidi, internet bankçılıq, IoT istifadəsi ilə yeni nəsil istehsala keçid və s. rəqəmsal transformasiyaya nümunədir."
     }
